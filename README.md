@@ -11,7 +11,7 @@
 유튜브 강의를 따라 만든 넷플릭스 클론 코딩입니다.
 
 참고 영상
-- 'iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone'
+- 'iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone'<br />
   by freeCodeCamp.org (https://www.youtube.com/watch?v=KCgYDCKqato&t=7363s)
 
 <br />
