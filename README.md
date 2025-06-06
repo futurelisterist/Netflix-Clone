@@ -13,21 +13,57 @@
 참고 영상
 - 'iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone'<br />
   by freeCodeCamp.org (https://www.youtube.com/watch?v=KCgYDCKqato&t=7363s)
+- API 출처 
+  https://api.themoviedb.org
+  https://www.googleapis.com/youtube/v3/search?
+
 
 <br />
 
 ### 결과 화면
-|화면 명|
+|Home|
 |:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456048-acbf44a8-cd71-4132-b35a-500047adbe1c.gif" width="450"/>|
-|화면에 대한 설명을 입력합니다.|
+<p>
+<img src="https://github.com/user-attachments/assets/b82aef0f-5453-41be-b90a-15443225843b" width="450"/>
+</p>
+
+#### 홈 화면 입니다. 카테고리에 맞는 영화 및 시리즈들이 슬라이드 뷰로 구성되어 있습니다.
+
+<br />
+<br />
 
 
-|화면 명|
+|Upcoming|
 |:---:|
-|<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="450"/>|
-|화면에 대한 설명을 입력합니다.|
+<p>
+<img src="https://github.com/user-attachments/assets/4388b478-901b-4f48-bf25-57dadbe3c9e3" width="450"/>
+<img src="https://github.com/user-attachments/assets/719c12ac-1671-4b3f-94fa-4d322db4a80c" width="450"/>
+</p>
 
+#### 다가오는 개봉작들을 조회할 수 있습니다. 객체 클릭 시, 유튜브에 있는 예고편 영상 조회와 다운로드를 할 수 있습니다.
+
+<br />
+
+|Search|
+|:---:|
+<p>
+<img src="https://github.com/user-attachments/assets/65ea07e4-f741-40e7-9ce4-5d758477d343" width="450"/>
+<img src="https://github.com/user-attachments/assets/0eddd27c-6b3f-414f-ad8d-202cabf060c6" width="450"/>
+</p>
+  
+#### API를 통해 조회한 목록을 볼 수 있습니다.
+
+<br />
+
+|Downloads|
+|:---:|
+<p>
+<img src="https://github.com/user-attachments/assets/1095a964-104a-4ea8-96ed-78a2597a3191" width="450"/>
+</p>
+
+#### 다운로드 한 작품들을 조회할 수 있고, 목록에서 삭제 할 수 있습니다. 객체의 저장은 Core data를 활용했습니다.
+
+<br />
 <br />
 
 ## ⚙ 기술 스택
